@@ -4,11 +4,20 @@
 
 ### Professional Self-Assessment
 
+During my work in the Computer Science program at Southern New Hampshire University I was able to build a solid foundation for a career in the Computer Science industry. Prior to entering the program, I was interested in computers and information technology, but did not have any knowledge beyond that of a typical computer user. Computer Science piqued my interest because it was a way of using my logical thinking and problem-solving skills that I had developed in a previous career path. 
+	
+IT-145 Foundation in Application Development was the first course to lay the base for how application development should be approached. I learned about the processes to prepare for coding a project as well as the basic best practices for writing quality programs. IT-145 segued well into CS 250 Software Development Lifecycle and CS-260 Data Structures and Algorithms. Both of those classes provided crucial information for how to build a more complex and robust software project. Data structures particularly taught about building various classes and functions of software. Using the skills learned in the previously mentioned courses, CS-310 taught about how to collaborate with a team while developing software. Team collaboration is a necessary and sometimes underrated portion of the software development process. In this course we learned about various methods of project management styles as well as how progress is communicated in methods such a scrum meeting.
+
+CS-340, DAD-220, and DAT-220 all developed skills related to database access and management. DAD-220 Intro to SQL covered the basics of database management using SQL to create, update, read, and delete databases and records. In CS-340 Client/Server Development, I learned about MongoDB query operations and what some advantages of using the MongoDB are. DAT-220 Fundamentals of Data Mining illustrated the process of analyzing data from databases. All three of these courses showed the power that databases hold for the Computer Science industry.
+
+Throughout my time at SNHU it was very apparent that software security is one of the most important aspects of Computer Science. Two of my electives has roots in software security. CS-405 Secure Coding taught about secure coding process and best practices. I also learned about tools such as static analyzers that assist with identifying possible code weaknesses. CS-410 Software Reverse Engineering showed us how to reverse engineer and analyze code for security risks.
+
+The artifacts selected for the ePortfolio showcase my skills in data structures and algorithms, software reverse engineering, and databases. These artifacts were not developed for the same projects, but the principals shown in each could be applied to any of the three projects to develop a complete software package.
 
 
 ### Informal Code Review
 
-My [code review](https://youtu.be/uCryRTDN7MM) is an overview from code created in an early course I took at Southern New Hampshire University.
+NOTE: Code review video currently unavailable due to technical difficulties.
 
 A code review is a task which allows code created to be reread for quality purposes. This code review can take place in many variations from informal to formal, and by members of the developing team or third-party reviewers. Code reviews are an important part of the computer science profession because it allows for the code to be reviewed for structure, function, readability, and security concerns. Code reviews can be initiated due to the normal development process as well as when a concern is found during testing or product release.
 
