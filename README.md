@@ -17,7 +17,7 @@ The artifacts selected for the ePortfolio showcase my skills in data structures 
 
 ### Informal Code Review
 
-NOTE: Code review video currently unavailable due to technical difficulties.
+This [code review](https://youtu.be/aLvutOS_UfU) is base upon one of my first programming assingments at SNHU. The code review showcases early skillsets I developed as well as my understanding on how the assignment could be enhanced with my expanded knowledge thoughout my program.
 
 A code review is a task which allows code created to be reread for quality purposes. This code review can take place in many variations from informal to formal, and by members of the developing team or third-party reviewers. Code reviews are an important part of the computer science profession because it allows for the code to be reviewed for structure, function, readability, and security concerns. Code reviews can be initiated due to the normal development process as well as when a concern is found during testing or product release.
 
